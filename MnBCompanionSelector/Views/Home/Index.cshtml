@@ -1,0 +1,102 @@
+﻿@model MnBCompanionSelector.Models.CompanionLogicBag
+@{
+	ViewBag.Title = "Home Page";
+}
+
+@*<div class="jumbotron">
+	<h1>Mount & Blade CompanionCalculator</h1>
+</div>*@
+<div class="row modname">
+	@Html.LabelFor(modname => Model.Mods)
+	@*@Html.DropDownListFor(mods=>Model.Mods.Distinct());*@
+</div>
+<div class="row">
+	<div class="col-md-4">
+		<h3>list of available (known by db) companions</h3>
+		<p>
+			@foreach (var companion in Model.AvailableList)
+			{
+				<div class="row" style="padding-bottom:10px" onclick="loadDetails(@companion)">
+					<div class="col-md-3">
+						<img src="@companion.ImagePath" alt=@companion.ImagePath style="max-width:100px;max-height:100px;
+														min-width:100px;min-height:100px" />
+					</div>
+					<div class="col-md-9">
+						<div class="panel-group">
+							<div>
+								@Html.HiddenFor(Id => companion.Id)
+								@Html.LabelFor(name => companion.Name)
+								@Html.DisplayFor(name => companion.Name)
+							</div>
+							<div>
+								@Html.LabelFor(Dislikes1 => companion.Dislike1)
+								@*@Html.DisplayFor(Dislikes1 => (from d in Model.AvailableList where d.Id == companion.Dislike1 select d.Name))*@
+							</div>
+							<div>
+								@Html.LabelFor(Dislikes2 => companion.Dislike2)
+								@Html.DisplayFor(Dislikes2 => companion.Dislike2)
+							</div>
+							<div>
+								@Html.LabelFor(Likes => companion.Likes)
+								@Html.DisplayFor(Likes => companion.Likes)
+							</div>
+							<div>
+								@Html.LabelFor(Mod => companion.ModName)
+								@Html.DisplayFor(Mod => companion.ModName)
+							</div>
+						</div>
+					</div>
+				</div>
+			}
+		</p>
+
+	</div>
+	<div class="col-md-4">
+		<h3>list of chosen companions</h3>
+		@*<p onclick="">*@
+			@foreach (var companion in Model.ChosenList)
+			{
+
+				<div class="row" style="padding-bottom:10px" @*onclick="loadDetails(@Model.AvailableList.First())"*@>
+					<div class="col-md-4">
+						<img src="@companion.ImagePath"alt="no image" style="max-width:100px;max-height:100px;
+														min-width:100px;min-height:100px" />
+					</div>
+					<div class="col-md-8">
+						<div class="panel-group">
+							<div>
+								@Html.HiddenFor(Id => companion.Id)
+								@Html.LabelFor(name => companion.Name)
+								@Html.DisplayFor(name => companion.Name)
+							</div>
+							<div>
+								@Html.LabelFor(Dislikes1 => companion.Dislike1)
+								@Html.DisplayFor(Dislikes1 => companion.Dislike1)
+							</div>
+							<div>
+								@Html.LabelFor(Dislikes2 => companion.Dislike2)
+								@Html.DisplayFor(Dislikes2 => companion.Dislike2)
+							</div>
+							<div>
+								@Html.LabelFor(Likes => companion.Likes)
+								@Html.DisplayFor(Likes => companion.Likes)
+							</div>
+							<div>
+								@Html.LabelFor(Mod => companion.ModName)
+								@Html.DisplayFor(Mod => companion.ModName)
+							</div>
+						</div>
+					</div>
+				</div>
+			}
+		@*</p>*@
+	</div>
+	<div class="col-md-4">
+		<h3>data on chosen Companion (latest clicked on)</h3>
+		<div class="row" style="padding-bottom:10px" >
+			<div id="companiondetails">
+				@{Html.RenderPartial("Details", Model.AvailableList.First());}
+			</div>
+		</div>
+	</div>
+</div>

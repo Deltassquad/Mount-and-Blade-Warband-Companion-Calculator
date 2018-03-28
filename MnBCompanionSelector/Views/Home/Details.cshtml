@@ -1,0 +1,38 @@
+﻿@model MnBCompanionSelector.Models.Companion
+
+<div class="col-md-3">
+	<img src="@Model.ImagePath" alt="no image" style="max-width:100px;max-height:100px;
+														min-width:100px;min-height:100px" />
+</div>
+<div class="col-md-9">
+	<div class="panel-group">
+		<div>
+			@Html.LabelFor(name => Model.Name)
+			@Html.DisplayFor(name => Model.Name)
+			@Html.HiddenFor(Id => Model.Id)
+		</div>
+		<div>
+			@Html.LabelFor(Dislikes1 => Model.Dislike1)
+			@Html.DisplayFor(Dislikes1 => Model.Dislike1)
+		</div>
+		<div>
+			@Html.LabelFor(Dislikes2 => Model.Dislike2)
+			@Html.DisplayFor(Dislikes2 => Model.Dislike2)
+		</div>
+		<div>
+			@Html.LabelFor(Likes => Model.Likes)
+			@Html.DisplayFor(Likes => Model.Likes)
+		</div>
+		<div>
+			@Html.LabelFor(Mod => Model.ModName)
+			@Html.DisplayFor(Mod => Model.ModName)
+		</div>
+	</div>
+</div>
+<div class="col-lg-6">
+	@*addbutton*@
+</div>
+<div class="col-lg-6">
+	@*removebutton*@
+</div>
+

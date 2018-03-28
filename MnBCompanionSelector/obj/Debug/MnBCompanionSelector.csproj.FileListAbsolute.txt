@@ -1,0 +1,266 @@
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\ApplicationInsights.config
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\csc.exe
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\csc.exe.config
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\csc.rsp
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\csi.exe
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\csi.rsp
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.AppContext.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\vbc.exe
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\vbc.exe.config
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\vbc.rsp
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\VBCSCompiler.exe
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\MnBCompanionSelector.dll.config
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\MnBCompanionSelector.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\MnBCompanionSelector.pdb
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Antlr3.Runtime.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.Web.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.ApplicationInsights.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Newtonsoft.Json.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Helpers.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Mvc.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Optimization.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Razor.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.WebPages.Deployment.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.WebPages.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.WebPages.Razor.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\WebGrease.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Helpers.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Mvc.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Optimization.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Razor.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.WebPages.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.WebPages.Deployment.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.WebPages.Razor.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Antlr3.Runtime.pdb
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Newtonsoft.Json.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.ApplicationInsights.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.Web.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\obj\Debug\MnBCompanionSelector.csprojResolveAssemblyReference.cache
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\obj\Debug\MnBCompanionSelector.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\obj\Debug\MnBCompanionSelector.pdb
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\EntityFramework.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\EntityFramework.SqlServer.dll
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\EntityFramework.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\EntityFramework.SqlServer.xml
+C:\Users\delta\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\MnBCompanionSelector\obj\Debug\MnBCompanionSelector.csproj.CoreCompileInputs.cache
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\ApplicationInsights.config
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\csc.exe
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\csc.exe.config
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\csc.rsp
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\csi.exe
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\csi.rsp
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.AppContext.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\vbc.exe
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\vbc.exe.config
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\vbc.rsp
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\VBCSCompiler.exe
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\MnBCompanionSelector.dll.config
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\MnBCompanionSelector.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\MnBCompanionSelector.pdb
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Antlr3.Runtime.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\EntityFramework.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\EntityFramework.SqlServer.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.Web.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Newtonsoft.Json.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Helpers.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Mvc.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Optimization.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Razor.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.WebPages.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.WebPages.Razor.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\WebGrease.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\EntityFramework.xml
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\EntityFramework.SqlServer.xml
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Helpers.xml
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Mvc.xml
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Optimization.xml
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.Razor.xml
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.WebPages.xml
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Web.WebPages.Razor.xml
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Antlr3.Runtime.pdb
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Newtonsoft.Json.xml
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AI.Web.xml
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\obj\Debug\MnBCompanionSelector.csprojResolveAssemblyReference.cache
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\obj\Debug\MnBCompanionSelector.csproj.CoreCompileInputs.cache
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\obj\Debug\MnBCompanionSelector.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\obj\Debug\MnBCompanionSelector.pdb
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\csi.exe.config
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Console.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.IO.Compression.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Security.Claims.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.ValueTuple.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Deltassquad\Projects\WindowsFormsApp1\MnBCompanionSelector\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\ApplicationInsights.config
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\MnBCompanionSelector.dll.config
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\MnBCompanionSelector.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\MnBCompanionSelector.pdb
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\csc.exe
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\csc.exe.config
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\csc.rsp
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\csi.exe
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\csi.exe.config
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\csi.rsp
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.AppContext.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Console.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.IO.Compression.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Security.Claims.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.ValueTuple.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\vbc.exe
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\vbc.exe.config
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\vbc.rsp
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\VBCSCompiler.exe
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Antlr3.Runtime.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\EntityFramework.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\EntityFramework.SqlServer.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Microsoft.AI.Web.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Newtonsoft.Json.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Web.Helpers.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Web.Mvc.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Web.Optimization.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Web.Razor.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Web.WebPages.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Web.WebPages.Razor.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\WebGrease.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Antlr3.Runtime.pdb
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\EntityFramework.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\EntityFramework.SqlServer.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Microsoft.AI.Web.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\Newtonsoft.Json.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Web.Helpers.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Web.Mvc.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Web.Razor.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Web.WebPages.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Web.WebPages.Razor.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\bin\System.Web.Optimization.xml
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\obj\Debug\MnBCompanionSelector.csprojResolveAssemblyReference.cache
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\obj\Debug\MnBCompanionSelector.csproj.CoreCompileInputs.cache
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\obj\Debug\MnBCompanionSelector.dll
+C:\Users\Deltassquad\Projects\Mount-and-Blade-Warband-Companion-Calculator\MnBCompanionSelector\obj\Debug\MnBCompanionSelector.pdb
